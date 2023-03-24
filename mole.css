@@ -1,4 +1,3 @@
-/* Your code here */
 .pf {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -32,12 +31,6 @@
   margin-top: 241px;
 }
 
-.wgs__mole-head--whacked {
-
-}
-
-
-/* UNCOMMENT THE CODE BELOW WHEN DIRECTED */
 .sb {
   background-color: cornflowerblue;
   border-bottom: 1px solid #645DED;
